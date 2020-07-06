@@ -1,0 +1,2 @@
+﻿
+when adding images, set the Copy to Output Directory to Copy if newer. Set build action to content
